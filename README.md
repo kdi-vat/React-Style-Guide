@@ -1,2 +1,1 @@
-# React
-collection of react
+# React编码规范
